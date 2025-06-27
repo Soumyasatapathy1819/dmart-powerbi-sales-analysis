@@ -59,8 +59,6 @@ The project uses a **star schema** with the following tables:
 
 ```
 📁 D-Mart Sales Analysis
-│
-├── 📄 D-Mart_Sales_Analysis_Report.docx   # Project Report
 ├── 📊 D_Mart Sales Analysis Project.pbix   # Power BI Dashboard File
 └── 📄 README.md                            # Project Overview
 ```
